@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d59f2516f23e2e329fe0d82017de9e5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\60eaf09bcccf60e3a6aab76e58902440\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\630d644704e5d34c77e4c9be01459881\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\48f20bfde1d1d95602dc63f97acfddf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f9b0cb7b2a15725355062319e9f2c9cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\24d6bfc2ea81434c265a9178361d5fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\9f4390092892ec8bdf55563d5a9bc2fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\7c8283b401f3decbbdcb6e36f26c76e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\02e0b9f94ff7538d2d3be858bd47eb98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\9910299bc8fed15d87b5e3cc0913cc96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\2037e2fea650ba22ac250a3b5a7ac7b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\e9034811054bff8bcb90a50ba1af286f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\a554bdcb29c4f377b46ce1ce20f631c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\59f8bc258c5b4b0f0d337a3ddf058c03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\2622a26f813908db840cf125cbcfbad8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\b5a3c535159f90432c4740edc799c49c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\25b7d643c8b0c7701a50fa63d3387a10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\d1c3d277fb2a1eb016132ac1944c47e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\b15ab18992b29f51e914fecd8798a54e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\7fd3f9374483355e887be1cfe389008d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\8e8474a6a2fcdcfa1ba428a32d3487c9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\2622a26f813908db840cf125cbcfbad8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\2622a26f813908db840cf125cbcfbad8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:17:9-39
+	android:icon
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#co.appbrewery.bmicalculator.MainActivity
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d59f2516f23e2e329fe0d82017de9e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d59f2516f23e2e329fe0d82017de9e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\60eaf09bcccf60e3a6aab76e58902440\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\60eaf09bcccf60e3a6aab76e58902440\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\630d644704e5d34c77e4c9be01459881\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\630d644704e5d34c77e4c9be01459881\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\48f20bfde1d1d95602dc63f97acfddf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\48f20bfde1d1d95602dc63f97acfddf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f9b0cb7b2a15725355062319e9f2c9cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f9b0cb7b2a15725355062319e9f2c9cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\24d6bfc2ea81434c265a9178361d5fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\24d6bfc2ea81434c265a9178361d5fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\9f4390092892ec8bdf55563d5a9bc2fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\9f4390092892ec8bdf55563d5a9bc2fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\7c8283b401f3decbbdcb6e36f26c76e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\7c8283b401f3decbbdcb6e36f26c76e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\02e0b9f94ff7538d2d3be858bd47eb98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\02e0b9f94ff7538d2d3be858bd47eb98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\9910299bc8fed15d87b5e3cc0913cc96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\9910299bc8fed15d87b5e3cc0913cc96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\2037e2fea650ba22ac250a3b5a7ac7b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\2037e2fea650ba22ac250a3b5a7ac7b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\10573253bf9d3546699feca7bf0eb466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\e9034811054bff8bcb90a50ba1af286f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\e9034811054bff8bcb90a50ba1af286f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\a554bdcb29c4f377b46ce1ce20f631c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\a554bdcb29c4f377b46ce1ce20f631c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\59f8bc258c5b4b0f0d337a3ddf058c03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\59f8bc258c5b4b0f0d337a3ddf058c03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\2622a26f813908db840cf125cbcfbad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\2622a26f813908db840cf125cbcfbad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\b5a3c535159f90432c4740edc799c49c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\b5a3c535159f90432c4740edc799c49c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\25b7d643c8b0c7701a50fa63d3387a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\25b7d643c8b0c7701a50fa63d3387a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\d1c3d277fb2a1eb016132ac1944c47e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\d1c3d277fb2a1eb016132ac1944c47e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\b15ab18992b29f51e914fecd8798a54e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\b15ab18992b29f51e914fecd8798a54e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\7fd3f9374483355e887be1cfe389008d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\7fd3f9374483355e887be1cfe389008d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\8e8474a6a2fcdcfa1ba428a32d3487c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\Shinobi\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\8e8474a6a2fcdcfa1ba428a32d3487c9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shinobi\AndroidStudioProjects\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml
